@@ -11,7 +11,7 @@ import java.util.PriorityQueue;
     -> Q_min.remove(max);
     -> Q_max.remove(min);
     이 remove(Object)는 PriorityQueue 내부에서 해당 값을 찾아서 삭제하는 과정이 필요하다고 한다.
-    문제는,
+    문제는 :
     입력이 최대 100만(10⁶) 번 이상일 수 있기 때문에
     연산 하나당 O(N) → 전체 O(N²) 수준이 되어버림...
 
