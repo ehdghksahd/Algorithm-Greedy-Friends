@@ -1,3 +1,6 @@
+// [BOJ] 12789: 도키도키 간식드리미
+package somyoung.week1;
+
 import java.util.*;
 import java.io.*;
 

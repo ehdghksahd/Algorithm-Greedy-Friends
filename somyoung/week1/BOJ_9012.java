@@ -1,3 +1,6 @@
+// [BOJ] 9012: 괄호
+package somyoung.week1;
+
 import java.util.*;
 import java.io.*;
 

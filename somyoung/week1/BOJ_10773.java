@@ -1,3 +1,6 @@
+// [BOJ] 10773: 제로
+package somyoung.week1;
+
 import java.util.*;
 import java.io.*;
 
