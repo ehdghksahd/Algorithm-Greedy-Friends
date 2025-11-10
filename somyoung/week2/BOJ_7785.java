@@ -1,3 +1,4 @@
+// [BOJ] 7785: 회사에 있는 사람
 package somyoung.week2;
 
 import java.util.*;
