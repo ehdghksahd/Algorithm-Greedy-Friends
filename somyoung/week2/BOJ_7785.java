@@ -1,4 +1,4 @@
-package week2;
+package somyoung.week2;
 
 import java.util.*;
 import java.io.*;
