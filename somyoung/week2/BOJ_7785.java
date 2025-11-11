@@ -26,7 +26,7 @@ public class BOJ_7785 {
             }
         }
 
-        Collections.sort(list, Collections.reverseOrder());
+        list.sort(Collections.reverseOrder());
 
         for(String name: list){
             System.out.println(name);
