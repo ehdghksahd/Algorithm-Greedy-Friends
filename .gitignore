@@ -3,6 +3,7 @@ out/
 
 # IntelliJ IDEA 설정 폴더
 .idea/
+*.iml
 
 # Claude Code 설정 폴더
 .claude/
