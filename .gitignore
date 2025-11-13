@@ -1,4 +1,15 @@
-# IntelliJ IDEA
+# IntelliJ IDEA 컴파일 출력 폴더
 out/
-.idea
+
+# IntelliJ IDEA 설정 폴더
+.idea/
 *.iml
+
+# Claude Code 설정 폴더
+.claude/
+
+# 기타 Java 빌드 파일
+*.class
+*.jar
+*.war
+*.ear
